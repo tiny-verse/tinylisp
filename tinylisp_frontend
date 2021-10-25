@@ -1,0 +1,9 @@
+#pragma once
+
+namespace tiny {
+
+    class tinylisp_frontend {
+    public:
+
+    }; // tinylisp_frontend
+}
